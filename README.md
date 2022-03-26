@@ -3,8 +3,7 @@ Image to build Nodejs services that require Python scripts to manage XLS/XLSX fi
 
 [Check on DockerHub](https://hub.docker.com/repository/docker/blacksoulgem95/excel-node-python)
 
-![CI Workflow](https://github.com/blacksoulgem95/excel-node-python-builder-image/actions/workflows/ci/badge.svg)
-
+[![ci](https://github.com/blacksoulgem95/excel-node-python-builder-image/actions/workflows/ci.yml/badge.svg)](https://github.com/blacksoulgem95/excel-node-python-builder-image/actions/workflows/ci.yml)
 
 Based on Alpine Linux, it includes:
 - `openssh-client`
