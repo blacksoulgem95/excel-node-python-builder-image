@@ -24,5 +24,5 @@ jobs:
         with:
           push: true
           tags: 
-            - @blacksoulgem95/excel-node-python:latest
-            - @blacksoulgem95/excel-node-python:16
+            - blacksoulgem95/excel-node-python:latest
+            - blacksoulgem95/excel-node-python:16
