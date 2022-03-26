@@ -23,6 +23,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: 
-            - blacksoulgem95/excel-node-python:latest
-            - blacksoulgem95/excel-node-python:16
+          tags: blacksoulgem95/excel-node-python:latest,blacksoulgem95/excel-node-python:16
